@@ -1,0 +1,16 @@
+C:\Study\CS\Lab1_part2_base64\Lab1_part2_base64\bin\Debug\Lab1_part2_base64.exe.config
+C:\Study\CS\Lab1_part2_base64\Lab1_part2_base64\bin\Debug\Lab1_part2_base64.exe
+C:\Study\CS\Lab1_part2_base64\Lab1_part2_base64\bin\Debug\Lab1_part2_base64.pdb
+C:\Study\CS\Lab1_part2_base64\Lab1_part2_base64\obj\Debug\Lab1_part2_base64.csprojResolveAssemblyReference.cache
+C:\Study\CS\Lab1_part2_base64\Lab1_part2_base64\obj\Debug\Lab1_part2_base64.csproj.CoreCompileInputs.cache
+C:\Study\CS\Lab1_part2_base64\Lab1_part2_base64\obj\Debug\Lab1_part2_base64.exe
+C:\Study\CS\Lab1_part2_base64\Lab1_part2_base64\obj\Debug\Lab1_part2_base64.pdb
+C:\Users\Ivan\Desktop\Lab1_part2_base64\Lab1_part2_base64\bin\Debug\Lab1_part2_base64.exe.config
+C:\Users\Ivan\Desktop\Lab1_part2_base64\Lab1_part2_base64\bin\Debug\Lab1_part2_base64.exe
+C:\Users\Ivan\Desktop\Lab1_part2_base64\Lab1_part2_base64\bin\Debug\Lab1_part2_base64.pdb
+C:\Users\Ivan\Desktop\Lab1_part2_base64\Lab1_part2_base64\obj\Debug\Lab1_part2_base64.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Desktop\Lab1_part2_base64\Lab1_part2_base64\obj\Debug\Lab1_part2_base64.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\Lab1_part2_base64\Lab1_part2_base64\obj\Debug\Lab1_part2_base64.exe
+C:\Users\Ivan\Desktop\Lab1_part2_base64\Lab1_part2_base64\obj\Debug\Lab1_part2_base64.pdb
+C:\Users\Ivan\Desktop\Lab1_part2_base64\Lab1_part2_base64\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Ivan\Desktop\Lab1_part2_base64\Lab1_part2_base64\obj\Debug\Lab1_part2_base64.csproj.CopyComplete

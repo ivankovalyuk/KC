@@ -1,0 +1,26 @@
+C:\Study\CS\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Study\CS\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Study\CS\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Study\CS\Lab1\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+C:\Study\CS\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Study\CS\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Study\CS\Lab1\Lab1\obj\Debug\Lab1.pdb
+C:\Study\CS\Lab1\Lab1\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Ivan\Desktop\Lab1_part1\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\Ivan\Desktop\Lab1_part1\Lab1\bin\Debug\Lab1.exe
+C:\Users\Ivan\Desktop\Lab1_part1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\Ivan\Desktop\Lab1_part1\Lab1\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Ivan\Desktop\Lab1_part1\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Desktop\Lab1_part1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\Lab1_part1\Lab1\obj\Debug\Lab1.csproj.CopyComplete
+C:\Users\Ivan\Desktop\Lab1_part1\Lab1\obj\Debug\Lab1.exe
+C:\Users\Ivan\Desktop\Lab1_part1\Lab1\obj\Debug\Lab1.pdb
+C:\Users\Ivan\Desktop\КС-1 лаба\Частина 1\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\Ivan\Desktop\КС-1 лаба\Частина 1\Lab1\bin\Debug\Lab1.exe
+C:\Users\Ivan\Desktop\КС-1 лаба\Частина 1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\Ivan\Desktop\КС-1 лаба\Частина 1\Lab1\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Ivan\Desktop\КС-1 лаба\Частина 1\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Desktop\КС-1 лаба\Частина 1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\КС-1 лаба\Частина 1\Lab1\obj\Debug\Lab1.csproj.CopyComplete
+C:\Users\Ivan\Desktop\КС-1 лаба\Частина 1\Lab1\obj\Debug\Lab1.exe
+C:\Users\Ivan\Desktop\КС-1 лаба\Частина 1\Lab1\obj\Debug\Lab1.pdb
